@@ -1,6 +1,5 @@
-# PHP Checkers Web
-
-A modern, interactive web-based Checkers game implemented in PHP. This project demonstrates object-oriented PHP programming, session management, and dynamic HTML generation.
+## PHP Checkers Web
+This project demonstrates a fully functional Checkers game implemented using only PHP, HTML, and CSS, without relying on JavaScript. It serves as a proof of concept, showcasing how server-side processing and creative usage of forms can create an interactive gaming experience.
 
 ## Technical Overview
 
@@ -67,10 +66,9 @@ The game uses CSS for styling, including:
 
 ## Installation and Requirements
 
-- Requires PHP 7.0 or higher and a web server (e.g., Apache, Nginx)
-- Clone the repository to your web server's document root
-- Ensure your web server is configured to handle PHP files
-- Access the game through a web browser
+- Clone the repository to a folder
+- Run php -S localhost:8000 in your terminal
+- Access the game through a web browser with http://localhost:8000/checkers.php
 
 ## Contributing
 
