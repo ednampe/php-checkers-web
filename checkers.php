@@ -446,6 +446,7 @@ function renderBoard($game, $selectedPiece) {
         .selected {
     box-shadow: 0 0 0 3px #C0B283,
                 0 0 10px 3px rgba(192, 178, 131, 0.5);
+        }
 
         .move-button {
             background-color: rgba(255, 215, 0, 0.6);
